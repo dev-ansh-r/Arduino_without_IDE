@@ -7,3 +7,4 @@ Arduino ♾️ is a widely used platform for building electronic projects, and t
 - [x] Method 1: Using Linux terminal to imitate an Arduino make file
 - [x] Method 2: Using VSCode Arduino Extension
 - [x] Method 3: Using Raspberry Pi with Arduino.mk 
+
